@@ -1,4 +1,4 @@
-# File Sharing System [P2P Network]
+# P2P File Distribution System
 
 ## Overview
 
